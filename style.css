@@ -180,6 +180,13 @@ header ul li a:hover {
     opacity: 0;
 }
 
+.creator {
+    animation: slide_right 0.5s linear forwards;
+    animation-delay: 1.5s;
+    opacity: 0;
+    margin-left: 10px;
+}
+
 .sci li a i {
     transform: scale(0.5);
 }
